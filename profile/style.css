@@ -1,0 +1,94 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  background-color: #EBEBEB;
+  color: #7D7D7D;
+  background-image: url()
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 22px;
+  color: #DD5555;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+}
+
+img {
+  width: 100px;
+  padding: 10px;
+}
+
+.table-top {
+  text-align: top;
+  padding-left: 10px;
+  vertical-align: top;
+}
+
+.btn-green {
+  background-color: #13af15;
+  padding: 10px;
+  border-radius: 5px;
+  color: white;
+}
+
+.btn-green:hover {
+  background-color: #24d82d;
+  color: white;
+}
+
+.container {
+  width: 500px;
+  margin: 0 auto;
+}
+.card {
+  background-color: white;
+  box-shadow: grey;
+  text-align: center;
+  margin: 20px;
+  padding: 30px;
+  border: 1px solid lightgrey;
+  border-radius: 4px;
+}
+
+.img-circle {
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline:hover {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: #7D7D7D;
+}
+
+a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+a:active {
+  color: yellow;
+}
+/* Here goes your CSS */
